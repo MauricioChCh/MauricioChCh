@@ -10,6 +10,13 @@ I'm a computer science student constantly looking to grow and learn new technolo
 - 🐧 Big fan of Linux and open source culture.
 - ⚡ Fun fact: I love breaking things just to understand how they work (and hopefully fixing them again).
 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" > Stats 
+<div align="center">
+    <a href="https://github.com/MauricioChCh">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauricioChCh&theme=github_dark" alt="MauricioChCh's GitHub Profile Summary"/>
+    </a>
+</div>
+
 
 
 ## <🧠> Things I know (and some things that keep me awake). </🧠>
@@ -70,13 +77,15 @@ I'm a computer science student constantly looking to grow and learn new technolo
 - 🔄 Scrum for Operations and DevOps Fundamentals Certified
 
 
-### 📊 Stats 
-![Mauricio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioChCh&theme=tokyonight&layout=compact)
-<br>
-![Mauricio's github stats](https://github-readme-stats.vercel.app/api?username=MauricioChCh&show_icons=true&theme=tokyonight)
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioChCh&theme=tokyonight" alt="mystreak"/>
 
+### 📊 Other Github Stats 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioChCh&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioChCh&theme=tokyonight&layout=compact"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioChCh&theme=tokyonight" alt="mystreak"/>
+</div>
 
 
 <h3 align="center">📫 Connect with me:</h3>
